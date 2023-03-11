@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valeria</h1>
 <h3 align="center">A passionate Full Stack developer from Córdoba, Argentina.</h3>
 
-- 🔭 I finished Henry's final project ["Art Street Wine club"](https://street-art-wine-club-front-end-wc6e.vercel.app/)to earn the title of Full Stack Developer. I participated mainly on the backend side developing routes, controllers and the mailing service. I also gave functionality in the front end to small components related to the newsletter service. 
+- 🔭 I finished Henry's final project ["Art Street Wine Club"](https://street-art-wine-club-front-end-wc6e.vercel.app/) to earn the title of Full Stack Developer. I participated mainly on the backend side developing routes, controllers and the mailing service. I also gave functionality in the front end to small components related to the newsletter service. 
 
 - 🌱 In my individual project I made an app about food recipes, in which you can search for recipes by type of diet and also create new ones. For this project I used Express and Postgres for the back end and database, and React, Redux, and CSS for the front end.
 
